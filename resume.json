@@ -1,0 +1,166 @@
+{
+  "basics": {
+    "name": "蕭鴻森 Sam Xiao",
+    "label": "Backend Developer",
+    "picture": "",
+    "email": "oomusou@gmail.com",
+    "phone": "0905356863",
+    "website": "http://oomusou.io",
+    "summary": "在碼天狗電子報發現 KKTIX 在徵才，使用敏捷開發流程，加上今年籌備 PHPConf Taiwan 時，在售票時也不太順利，因此對 KKTIX 的售票服務深感興趣，最後由於好友陳小風也在 KKTIX，之前曾經聽他講過在 KKTIX 的工作內容，因此想試試看有沒機會進入 KKTIX。",
+    "location": {
+      "address": "台北市信義區中坡南路 12 巷 8 號 4 樓",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "Facebook",
+        "username": "Oomusou Xiao",
+        "url": "https://www.facebook.com/oomusou.xiao"
+      },
+      {
+        "network": "GitHub",
+        "username": "oomusou",
+        "url": "https://github.com/oomusou"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "明基電通 BENQ",
+      "position": "資深工程師",
+      "website": "https://x-sign.benq.com/",
+      "startDate": "2015-08-17",
+      "endDate": "",
+      "summary": "X-Sign 為明基的電子看板解決方案，X-Sign Designer 為電子看板內容開發工具，X-Sign Player 為電子看板內容播放工具，而 X-Sign Manager 為電子看板內容管理工具。",
+      "highlights": [
+        "1. X-Sign Manager  網頁開發 (全端)",
+        "2. X-Sign Player API 開發 (後端)"
+      ]
+    },
+    {
+      "company": "元太科技",
+      "position": "主任工程師",
+      "website": "http://www.einkgroup.com/",
+      "startDate": "2010-07-01",
+      "endDate": "2015-05-30",
+      "summary": "元太科技為電子紙相關技術領導廠商，提供電子紙面板與電子紙應用解決方案。",
+      "highlights": [
+        "1. 電子紙驅動 IC 設計",
+        "2. 電子紙韌體開發",
+        "3. 電子紙應用軟體開發"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Laravel 台灣 / PHP 也有 Day",
+      "position": "社團領導人",
+      "website": "https://www.facebook.com/groups/laravel.tw/",
+      "startDate": "2015-01-01",
+      "endDate": "",
+      "summary": "推廣現代化的 PHP 開發方式。",
+      "highlights": [
+        "1. 每個月會會辦一場 Laravel / PHP talk，邀請資深開發者分享",
+        "2. 每個月會辦一場 Laravel / PHP 讀書會，目前正在看關於 PHP 單元測試的書籍",
+        "3. 每個月會辦一場新手村教學"
+      ]
+    },
+    {
+      "organization": "PHPConf Taiwan 2016",
+      "position": "議程組組長",
+      "website": "http://2016.phpconf.tw/",
+      "startDate": "2016-10-29",
+      "endDate": "2016-10-30",
+      "summary": "",
+      "highlights": [
+        "1. 邀請 PHPUnit 之父 Sabastian Berggman 來台",
+        " 2. 邀請 Slim framework 之父 Josh Lockhart 來台",
+        "3. 將 PHPConf 過去重視底層、效能、大流量議題，轉為跟開發者更為相關的測試、重構、敏捷等議題。",
+        "4. 首次在 PHPConf 舉辦 workshop，讓初學者也能參與"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "台灣大學電機所 計算機組",
+      "area": "Computer Science",
+      "studyType": "Master",
+      "startDate": "2006-09-01",
+      "endDate": "2009-01-01",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [
+    {
+      "name": "如何使用 PhpStorm 實現 TDD、重構與偵錯?",
+      "publisher": "PHP 也有 Day",
+      "releaseDate": "2016-01-21",
+      "website": "https://www.youtube.com/watch?v=qGOYTh2wxU8",
+      "summary": "TDD要求我們先寫測試，雖然會在專案一開始多花一點時間，但只要我們選對工具，就可將花在測試、重構與偵錯的時間再省回來，讓我們雖然輸在起跑點，卻可贏在決勝點。"
+    },
+    {
+      "name": "當六脈神劍遇上 PhpStorm",
+      "publisher": "Laravel 台灣",
+      "releaseDate": "2016-07-30",
+      "website": "http://oomusou.io/phpstorm/phpstorm-code-inspection/",
+      "summary": "將當場示範 PhpStorm 的六個強悍功能，包括：Auto Completion、Inspection、Testing、Refactoring、Debugging、Code Quality Analysis 等。寫 PHP 的你還在找順手的 IDE 嗎？讓你第一次使用 PhpStorm 就愛上！"
+    },
+    {
+      "name": "自動化驗收測試實戰",
+      "publisher": "PHPConf Taiwan",
+      "releaseDate": "2016-10-29",
+      "website": "http://oomusou.io/selenium/selenium-phpunit/",
+      "summary": "隨著單元測試與整合測試自動化後，最後一哩路的驗收測試該如何自動化呢？本 workshop 將帶著大家將自動化測試的環境建立起來，並實際撰寫驗收測試，為將來 CI 自動化測試鋪路。"
+    }
+  ],
+  "skills": [
+    {
+      "name": "內功",
+      "level": "Master",
+      "keywords": [
+        "OOP",
+        "TDD",
+        "Refactoring",
+        "Design Pattern",
+        "Scrum"
+      ]
+    },
+    {
+      "name": "外功",
+      "level": "Master",
+      "keywords": [
+        "PHP",
+        "Laravel",
+        "TypeScript",
+        "Angular 2"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "寫部落格",
+      "keywords": [
+        "幫助更多人 "
+      ]
+    },
+    {
+      "name": "社群分享",
+      "keywords": [
+        "教學相長"
+      ]
+    },
+    {
+      "name": "游泳",
+      "keywords": [
+        "橫渡日月潭"
+      ]
+    }
+  ],
+  "references": []
+}
